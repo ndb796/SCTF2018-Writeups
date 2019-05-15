@@ -1,50 +1,50 @@
 ### Setup
-* AWS EC2 ±¸¼º ¹× Á¢¼Ó
+* AWS EC2 êµ¬ì„± ë° ì ‘ì†
 ```
 # AWS Ubuntu Server 18.04 - t2.micro Basic - SSH Connect
 ```
-* Python, Jupyter ¼³Ä¡
+* Python, Jupyter ì„¤ì¹˜
 ```
 sudo apt-get update
 sudo apt-get install python3-pip
 sudo pip3 install notebook
 ```
-* Jupyter Á¢¼Ó ºñ¹Ğ¹øÈ£ ¼³Á¤
+* Jupyter ì ‘ì† ë¹„ë°€ë²ˆí˜¸ ì„¤ì •
 ```
 python3
 >> from notebook.auth import passwd
 >> passwd()
-# ºñ¹Ğ¹øÈ£ ¼³Á¤ÇÑ µÚ¿¡ SHA1 °ª ±â·ÏÇÏ±â
+# ë¹„ë°€ë²ˆí˜¸ ì„¤ì •í•œ ë’¤ì— SHA1 ê°’ ê¸°ë¡í•˜ê¸°
 ```
-* Jupyter È¯°æ ¼³Á¤
+* Jupyter í™˜ê²½ ì„¤ì •
 ```
 jupyter notebook --generate-config
 sudo vi /home/ubuntu/.jupyter/jupyter_notebook_config.py
 c = get_config()
-c.NotebookApp.password = u'sha1:{ÇØ½Ã °ª}'
-c.NotebookApp.ip = '{³»ºÎ ¾ÆÀÌÇÇ}'
+c.NotebookApp.password = u'sha1:{í•´ì‹œ ê°’}'
+c.NotebookApp.ip = '{ë‚´ë¶€ ì•„ì´í”¼}'
 c.NotebookApp.notebook_dir = '/'
-# ³»ºÎ ¾ÆÀÌÇÇ·Î´Â SSH·Î Á¢¼ÓÇßÀ» ¶§ ÄÜ¼Ö Ã¢¿¡ ³ª¿À´Â ¾ÆÀÌÇÇ¸¦ ÀÔ·ÂÇÏ±â
+# ë‚´ë¶€ ì•„ì´í”¼ë¡œëŠ” SSHë¡œ ì ‘ì†í–ˆì„ ë•Œ ì½˜ì†” ì°½ì— ë‚˜ì˜¤ëŠ” ì•„ì´í”¼ë¥¼ ì…ë ¥í•˜ê¸°
 ```
-* Jupyter HTTPS Àû¿ë
+* Jupyter HTTPS ì ìš©
 ```
 cd /home/ubuntu
 mkdir ssl
 cd ssl
 sudo openssl req -x509 -nodes -days 365 -newkey rsa:1024 -keyout "cert.key" -out "cert.pem" -batch
 sudo vi /home/ubuntu/.jupyter/jupyter_notebook_config.py
-# ´ÙÀ½ÀÇ ³»¿ë ÀÔ·ÂÇÏ±â
+# ë‹¤ìŒì˜ ë‚´ìš© ì…ë ¥í•˜ê¸°
 c.NotebookApp.certfile = u'/home/ubuntu/ssl/cert.pem'
 c.NotebookApp.keyfile = u'/home/ubuntu/ssl/cert.key'
 ```
-* Jupyter System Service·Î µî·Ï
+* Jupyter System Serviceë¡œ ë“±ë¡
 ```
-# ½ÇÇà ÁßÀÎ Jupyter ¼­¹ö Á¾·áÇÏ±â
-# jupyter-notebook ½ÇÇà ÆÄÀÏ °æ·Î Ã£±â
+# ì‹¤í–‰ ì¤‘ì¸ Jupyter ì„œë²„ ì¢…ë£Œí•˜ê¸°
+# jupyter-notebook ì‹¤í–‰ íŒŒì¼ ê²½ë¡œ ì°¾ê¸°
 which jupyter-notebook
-# jupyter.service ÀÛ¼ºÇÏ±â
+# jupyter.service ì‘ì„±í•˜ê¸°
 sudo vi /etc/systemd/system/jupyter.service
-# Jupyter Notebook ¼­ºñ½º ÀÛ¼ºÇÏ±â
+# Jupyter Notebook ì„œë¹„ìŠ¤ ì‘ì„±í•˜ê¸°
 [Unit]
 Description=Jupyter Notebook Server
 
@@ -55,19 +55,20 @@ ExecStart=/usr/bin/sudo /usr/local/bin/jupyter-notebook --allow-root --config=/h
 
 [Install]
 WantedBy=multi-user.target
-# Jupyter ¼­ºñ½º ±¸µ¿½ÃÅ°±â
+# Jupyter ì„œë¹„ìŠ¤ êµ¬ë™ì‹œí‚¤ê¸°
 sudo systemctl daemon-reload
 sudo systemctl enable jupyter
 sudo systemctl start jupyter
-# Jupyter ¼­ºñ½º »óÅÂ È®ÀÎÇÏ±â
+# Jupyter ì„œë¹„ìŠ¤ ìƒíƒœ í™•ì¸í•˜ê¸°
 sudo systemctl status jupyter
-# ¿À·ù ¹ß»ı½Ã jupyter_notebook_config.py¿¡¼­ IP ÁÖ¼Ò È®ÀÎÇÏ±â
-# Jupyter ¼­ºñ½º Àç½ÃÀÛ ¹æ¹ı
+# ì˜¤ë¥˜ ë°œìƒì‹œ jupyter_notebook_config.pyì—ì„œ IP ì£¼ì†Œ í™•ì¸í•˜ê¸°
+# Jupyter ì„œë¹„ìŠ¤ ì¬ì‹œì‘ ë°©ë²•
 sudo systemctl restart jupyter
+# ë³´ì•ˆ ì •ì±…ìœ¼ë¡œ 8888 í¬íŠ¸ ì—´ê¸° - Browserë¡œ ì„œë²„ ì ‘ì†
 ```
-* Docker ¼³Ä¡ÇÏ±â
+* Docker ì„¤ì¹˜í•˜ê¸°
 ```
-# ½ÃÀÛÇÏ±â Àü¿¡ º¼·ı Å©±â ³Ë³ËÇÏ°Ô ¸¸µé±â
+# ì‹œì‘í•˜ê¸° ì „ì— ë³¼ë¥¨ í¬ê¸° ë„‰ë„‰í•˜ê²Œ ë§Œë“¤ê¸°
 sudo apt update
 sudo apt install apt-transport-https ca-certificates curl software-properties-common
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
@@ -75,18 +76,33 @@ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubun
 sudo apt update
 apt-cache policy docker-ce
 sudo apt install docker-ce
-# ¼³Ä¡ ¿Ï·á ÈÄ¿¡ µµÄ¿ »óÅÂ È®ÀÎ
+# ì„¤ì¹˜ ì™„ë£Œ í›„ì— ë„ì»¤ ìƒíƒœ í™•ì¸
 sudo systemctl status docker
-# Hello World ÀÌ¹ÌÁö ´Ù¿î·Îµå ¹× ½ÇÇà
+# Hello World ì´ë¯¸ì§€ ë‹¤ìš´ë¡œë“œ ë° ì‹¤í–‰
 docker pull hello-world
 docker images
 docker run hello-world
 docker ps -a
 docker rm {Container ID}
-# ¸ğµç ÄÁÅ×ÀÌ³Ê »èÁ¦
+# ëª¨ë“  ì»¨í…Œì´ë„ˆ ì‚­ì œ
 docker rm -f `docker ps -a -q`
-# ¸ğµç ÀÌ¹ÌÁö »èÁ¦
+# ëª¨ë“  ì´ë¯¸ì§€ ì‚­ì œ
 docker rmi -f `docker images`
-# ½ÇÇà ÁßÀÎ µµÄ¿ Á¢¼Ó
+# ì‹¤í–‰ ì¤‘ì¸ ë„ì»¤ ì ‘ì†
 docker attach {Container ID}
+```
+* HumanDetector í™˜ê²½ êµ¬ì¶•
+```
+cd /home/ubuntu
+git clone https://github.com/kaishack/sctf2018.git
+cd sctf2018/coding/HumanDetector
+./setup.sh
+# setup.sh íŒŒì¼ ì˜¤ë¥˜ë¡œ ì„¤ì¹˜ê°€ ì•ˆ ë˜ë©´ ë‹¤ìŒ ëª…ë ¹ì–´ ì§ì ‘ ìˆ˜í–‰
+pip3 install certifi
+pip3 install python3-opencv
+pip3 install Pillow
+pip3 install numpy
+# setup.shëŠ” ì•½ 10ë¶„ê°€ëŸ‰ ë™ì‘í•˜ë©°, deploy/src/datasetì— 10,000ê°œì˜ ë¬¸ì ë°ì´í„° ìƒì„±
+./docker-compose build
+./docker-compose up
 ```
