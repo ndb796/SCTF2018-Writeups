@@ -18,6 +18,8 @@ python3
 ```
 * Jupyter 환경 설정
 ```
+jupyter notebook --generate-config
+sudo vi /home/ubuntu/.jupyter/jupyter_notebook_config.py
 c = get_config()
 c.NotebookApp.password = u'sha1:{해시 값}'
 c.NotebookApp.ip = '{내부 아이피}'
