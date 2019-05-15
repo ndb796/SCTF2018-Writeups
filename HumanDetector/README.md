@@ -102,7 +102,7 @@ pip3 install certifi
 pip3 install python3-opencv
 pip3 install Pillow
 pip3 install numpy
-# setup.sh는 약 10분가량 동작하며, deploy/src/dataset에 10,000개의 문자 데이터 생성
+# setup.sh는 약 1시간가량 동작하며, deploy/src/dataset에 10,000개의 문자 데이터 생성
 ./docker-compose build
 ./docker-compose up
 ```
