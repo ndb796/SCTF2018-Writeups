@@ -91,7 +91,7 @@ docker rmi -f `docker images`
 # 실행 중인 도커 접속
 docker attach {Container ID}
 ```
-* HumanDetector 환경 구축
+* HumanDetector 환경 구축 1
 ```
 cd /home/ubuntu
 git clone https://github.com/kaishack/sctf2018.git
@@ -102,7 +102,14 @@ pip3 install certifi
 pip3 install python3-opencv
 pip3 install Pillow
 pip3 install numpy
-# setup.sh는 약 3시간가량 동작하며, deploy/src/dataset에 10,000개의 문자 데이터 생성
+# setup.sh는 약 3시간가량 동작하며, deploy/src/dataset에 10,000 * 26개의 문자 데이터 생성
+# 다만, 성능이 매우 좋은 컴퓨터라도 260,000개의 이미지를 만드는 것은 수 시간이 걸립니다.
+./docker-compose build
+./docker-compose up
+```
+* HumanDetector 환경 구축 2
+```
+* 업로드 해 놓은 Deployment 파일을 다운로드 받
 ./docker-compose build
 ./docker-compose up
 ```
