@@ -109,7 +109,7 @@ pip3 install numpy
 ```
 * HumanDetector 환경 구축 2
 ```
-* 업로드 해 놓은 Deployment 파일을 다운로드 받
+* 업로드 해 놓은 Deployment 파일을 다운로드 받습니다.
 ./docker-compose build
 ./docker-compose up
 ```
