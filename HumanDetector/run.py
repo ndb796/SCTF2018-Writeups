@@ -1,6 +1,6 @@
 import socket
-import time
 import zlib
+import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.image import imread
 
@@ -22,6 +22,7 @@ def get_image():
     s.connect(('127.0.0.1', 42424))
 
     received = recv_all(s)
+    # print(received) 서버로부터 전달 받은 메시지를 확인
     received = recv_all(s)
     # print(received) 서버로부터 전달 받은 메시지를 확인
     file_size = str(received[56:])[2:].split(')')[0]
@@ -38,7 +39,6 @@ def get_image():
     return image
 
 
-# 서버로부터 이미지를 받아 파일로 저장합니다.
 FILE_NAME = 'file.png'
 image = get_image()
 file = open(FILE_NAME, "wb")
@@ -46,8 +46,14 @@ file.write(image)
 file.close()
 print('파일 저장 완료: %s' %(FILE_NAME))
 
-# 저장된 이미지를 화면에 출력합니다.
+# 전체 이미지를 출력합니다.
 img = imread(FILE_NAME)
 plt.figure(figsize=(20, 4))
 plt.imshow(img)
+plt.show()
+
+# 이미지를 100개로 나누어 하나를 출력합니다.
+img2 = np.hsplit(img, 100)[0]
+plt.figure(figsize=(20, 4))
+plt.imshow(img2)
 plt.show()
