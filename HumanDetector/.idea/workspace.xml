@@ -2,6 +2,203 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45e4e500-4ddb-4da4-ba98-f4fb6b4fe22f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/A/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/A/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/A/73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/B/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/B/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/B/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/B/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/B/45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/B/56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/B/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/B/61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/C/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/C/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/C/63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/D/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/D/59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/D/74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/E/88.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/F/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/F/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/F/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/F/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/G/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/G/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/G/89.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/H/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/H/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/H/46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/H/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/H/69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/H/92.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/I/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/I/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/I/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/I/85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/J/97.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/K/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/K/87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/L/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/L/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/L/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/L/53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/M/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/M/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/M/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/M/75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/M/78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/M/90.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/M/96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/N/58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/N/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/N/84.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/N/95.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/O/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/O/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/O/47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/O/68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/O/77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/O/80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/O/93.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/P/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/P/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/P/70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/P/82.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/P/94.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Q/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Q/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Q/49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Q/72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/R/71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/R/76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/R/86.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/T/51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/T/79.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/T/83.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/U/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/U/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/U/64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/U/65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/U/81.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/V/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/V/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/V/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/W/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/W/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/W/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/W/91.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/W/99.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/X/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/X/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Y/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Y/62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Y/66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Y/67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Z/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/A/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/A/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/A/73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/B/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/B/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/B/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/B/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/B/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/B/45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/B/56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/B/61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/C/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/C/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/C/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/C/63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/D/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/D/59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/D/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/D/74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/E/88.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/F/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/F/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/F/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/F/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/G/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/G/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/G/54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/G/89.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/H/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/H/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/H/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/H/46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/H/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/H/69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/H/92.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/I/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/I/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/I/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/I/85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/J/97.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/K/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/K/86.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/K/87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/L/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/L/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/L/53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/M/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/M/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/M/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/M/62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/M/75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/M/78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/M/90.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/M/96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/N/58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/N/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/N/84.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/N/95.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/O/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/O/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/O/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/O/47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/O/68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/O/77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/O/80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/O/93.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/P/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/P/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/P/70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/P/76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/P/82.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/P/94.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/Q/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/Q/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/Q/49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/Q/72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/R/71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/S/98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/T/51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/T/79.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/T/83.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/U/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/U/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/U/64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/U/65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/U/81.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/V/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/V/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/V/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/W/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/W/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/W/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/W/91.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/W/99.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/X/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/X/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/Y/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/Y/66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/Y/67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images_original/Z/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knn_trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/png_to_black_in_folder.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
     </list>
@@ -15,46 +212,109 @@
     <session id="1667431836">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="png" value="160" />
+          <entry key="py" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Image" value="160" />
+          <entry key="Python" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="py" value="160" />
+          <entry key="py" value="2122" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="160" />
+          <entry key="Python" value="2122" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1228">
-              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="286">
+              <caret line="150" column="10" lean-forward="true" selection-start-line="150" selection-start-column="10" selection-end-line="150" selection-end-column="10" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/O/68.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images_original/E/88.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/O/80.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/T/51.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/T/79.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/T/83.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/knn_trainer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/png_to_black_in_folder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/O/93.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -73,15 +333,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/run.y.py" />
+        <option value="$PROJECT_DIR$/png_to_black_in_folder.py" />
         <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/knn_trainer.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="393" />
-    <option name="y" value="50" />
-    <option name="width" value="1534" />
-    <option name="height" value="993" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="135" />
+    <option name="y" value="16" />
+    <option name="width" value="1185" />
+    <option name="height" value="954" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -96,6 +358,40 @@
               <item name="HumanDetector" type="b2602c69:ProjectViewProjectNode" />
               <item name="HumanDetector" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HumanDetector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HumanDetector" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HumanDetector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HumanDetector" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="O" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HumanDetector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HumanDetector" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="T" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HumanDetector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HumanDetector" type="462c0819:PsiDirectoryNode" />
+              <item name="images_original" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HumanDetector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HumanDetector" type="462c0819:PsiDirectoryNode" />
+              <item name="images_original" type="462c0819:PsiDirectoryNode" />
+              <item name="E" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HumanDetector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HumanDetector" type="462c0819:PsiDirectoryNode" />
+              <item name="images_original" type="462c0819:PsiDirectoryNode" />
+              <item name="O" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -106,6 +402,17 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\나동빈\Desktop\Python 관련 강의\Python 데이터 분석과 이미지 처리\SCTF2018-Writeups\HumanDetector\images\R" />
+      <recent name="C:\Users\나동빈\Desktop\Python 관련 강의\Python 데이터 분석과 이미지 처리\SCTF2018-Writeups\HumanDetector\images\Y" />
+      <recent name="C:\Users\나동빈\Desktop\Python 관련 강의\Python 데이터 분석과 이미지 처리\SCTF2018-Writeups\HumanDetector\images\B" />
+      <recent name="C:\Users\나동빈\Desktop\Python 관련 강의\Python 데이터 분석과 이미지 처리\SCTF2018-Writeups\HumanDetector\images\L" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\나동빈\Desktop\Python 관련 강의\Python 데이터 분석과 이미지 처리\SCTF2018-Writeups\HumanDetector" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -119,7 +426,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.knn_trainer">
+    <configuration name="knn_trainer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HumanDetector" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/knn_trainer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="png_to_black_in_folder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HumanDetector" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/png_to_black_in_folder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HumanDetector" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,8 +490,15 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.png_to_black_in_folder" />
+      <item itemvalue="Python.knn_trainer" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.knn_trainer" />
+        <item itemvalue="Python.png_to_black_in_folder" />
         <item itemvalue="Python.run" />
       </list>
     </recent_temporary>
@@ -161,23 +517,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="315" y="40" width="1227" height="794" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24957983" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14144084" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.35151514" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34801137" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31182796" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.26158446" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -187,10 +543,174 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/U/81.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/U/65.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/S/98.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/R/86.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/V/20.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/V/43.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/V/48.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/W/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/W/9.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/W/52.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/W/91.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/W/99.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/X/15.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/X/50.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Y/40.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Y/62.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Y/66.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Y/67.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Z/19.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/A/5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/A/18.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/A/73.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/E/88.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/D/74.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/D/59.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/D/44.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/C/63.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/C/14.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/C/24.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/B/61.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/B/56.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/B/45.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/B/31.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/B/6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/B/16.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/B/28.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/B/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images_original/O/13.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/O/13.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/O/17.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/O/47.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/O/68.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images_original/E/88.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/O/93.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/O/80.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/T/51.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/T/79.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/T/83.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/png_to_black_in_folder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knn_trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1228">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="286">
+          <caret line="150" column="10" lean-forward="true" selection-start-line="150" selection-start-column="10" selection-end-line="150" selection-end-column="10" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
